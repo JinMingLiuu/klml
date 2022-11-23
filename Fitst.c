@@ -6,6 +6,15 @@
 
 int main()
 {
-	printf("First Output Msg...\");
+
+
+
+
+
+	printf("First Msg...\");
+
+
+	printf("lala");
+
 	return 0;
 }
